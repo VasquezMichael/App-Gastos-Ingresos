@@ -7,6 +7,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
     <>
       <App />
+      <p>Testeando sincronizacion con el host</p>
     </>
   </React.StrictMode>
 );

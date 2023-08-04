@@ -7,7 +7,6 @@ ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
     <>
       <App />
-      <p>Hola</p>
     </>
   </React.StrictMode>
 );
